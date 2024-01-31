@@ -1,4 +1,4 @@
-# Projeto-Miro-Do-As-IS-ao-TO-BE-
+# Projeto_Miro:_Do-AsIS_ao_TOBE
 **Projeto de Canais Digitais (do AS IS ao TO BE)**
 <br>
 Gestão de projetos desde o discovery até a análise de protótipos, entrega do desenvolvimento e homologação. 
