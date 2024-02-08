@@ -21,5 +21,10 @@ Essa abordagem adaptativa não apenas simplificou o processo de mapeamento, mas 
 <br  >
 
 
+
+https://github.com/BertaT2C/Projeto_Miro_CanaisDigitais/assets/99225701/58facc0b-6bbd-4aa1-943c-929dd51aa71b
+
+# 
+Na apresentação, demonstro o acesso dos clientes ao WhatsApp e a interação com o chatbot, desde a conversa automatizada até o atendimento pela central. Também evidenciei a existência de vários subprocessos, cada um deles com submenus para garantir a continuidade do atendimento.
   </body>
   </html>
