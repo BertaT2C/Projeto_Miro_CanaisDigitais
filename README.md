@@ -14,7 +14,7 @@ O meu acompanhamento é contínuo até a entrega do desenvolvimento, com partici
 Durante o processo de mapeamento ASIS de uma seguradora que opera através de três canais digitais, foi identificada a necessidade de otimizar especificamente o canal de Whatsapp. Para garantir uma compreensão abrangente e eficaz por parte de toda a equipe, adaptei o mapeamento utilizando a plataforma Bizagi.
 <br  >
 
-Devido à diversidade de habilidades e familiaridade com a ferramenta, optei por incluir figuras e artefatos visuais, além de contar com o auxílio do Mir para facilitar a compreensão e colaboração de todos os membros envolvidos.
+Devido à diversidade de habilidades e familiaridade com a ferramenta, optei por incluir figuras e artefatos visuais, além de contar com o auxílio do Miro para facilitar a compreensão e colaboração de todos os membros envolvidos.
 <br  >
 
 Essa abordagem adaptativa não apenas simplificou o processo de mapeamento, mas também promoveu uma melhor compreensão das áreas que requeriam otimização, permitindo uma intervenção mais eficiente e direcionada para melhorar o desempenho do canal de Whatsapp da seguradora.
