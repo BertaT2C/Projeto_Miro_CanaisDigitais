@@ -3,9 +3,9 @@
 <head>
 <body> 
   
-## Projeto Miro: Do ASIS ao TOBE
+### Projeto Miro: Do ASIS ao TOBE
 
-## Projeto de Canais Digitais (do AS IS ao TO BE)
+### Projeto de Canais Digitais (do AS IS ao TO BE)
 <br>
 Gestão de projetos desde o discovery até a análise de protótipos, entrega do desenvolvimento e homologação. 
 Após a entrega do levantamento do AS-IS, sempre em colaboração com a equipe de UX Design e Writers, apresento os resultados das descobertas, entrevistas com usuários e dados relevantes do projeto para que possam trabalhar no TO BE do projeto, a partir desse ponto, o time de UX inicia a jornada de planejamento do estado futuro, enquanto os Writers trabalham nas personas do projeto.
