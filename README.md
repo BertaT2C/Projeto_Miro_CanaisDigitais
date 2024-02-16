@@ -20,7 +20,7 @@ Devido à diversidade de habilidades e familiaridade com a ferramenta, optei por
 Essa abordagem adaptativa não apenas simplificou o processo de mapeamento, mas também promoveu uma melhor compreensão das áreas que requeriam otimização, permitindo uma intervenção mais eficiente e direcionada para melhorar o desempenho do canal de Whatsapp da seguradora.
 <br  >
 
-#Este processo esta disponivel no Whatsapp cliente para o público, não é um acesso confidencial. Todos os testes e mapeamento AS IS foram feitos em interação aberta ao público.
+*Este processo esta disponivel no Whatsapp cliente para o público, não é um acesso confidencial. Todos os testes e mapeamento AS IS foram feitos em interação aberta ao público.
 
 
 
