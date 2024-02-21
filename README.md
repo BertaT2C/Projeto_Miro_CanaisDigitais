@@ -23,8 +23,8 @@ Essa abordagem adaptativa não apenas simplificou o processo de mapeamento, mas 
 <hr>Este processo esta disponivel no Whatsapp cliente para o público, não é um acesso confidencial. Todos os testes e mapeamento AS IS foram feitos em interação aberta ao público.</hr>
 
 
+## INCLUIR IMAGEM
 
-https://github.com/BertaT2C/Projeto_Miro_CanaisDigitais/assets/99225701/58facc0b-6bbd-4aa1-943c-929dd51aa71b
 
 # 
 Durante a apresentação, destaco a experiência dos clientes ao acessar nosso serviço pelo WhatsApp, enfatizando a transição desde a interação inicial com o chatbot até o atendimento humano pela central. Também ressalto a presença de diversos subprocessos, cada um com submenus projetados. Os próximos passos incluem o alinhamento com a equipe para entender os processos que agregam mais valor e determinar as prioridades do backlog.
