@@ -22,8 +22,10 @@ Essa abordagem adaptativa não apenas simplificou o processo de mapeamento, mas 
 
 <hr>Este processo esta disponivel no Whatsapp cliente para o público, não é um acesso confidencial. Todos os testes e mapeamento AS IS foram feitos em interação aberta ao público.</hr>
 
+<br><br>
 
-## INCLUIR IMAGEM
+![image](https://github.com/BertaT2C/Projeto_Miro_CanaisDigitais/assets/99225701/6f24e789-c788-4b21-8fab-bcef793fd9ea)
+
 
 
 # 
