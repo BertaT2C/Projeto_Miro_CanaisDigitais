@@ -14,9 +14,9 @@ O case reúne investigação da jornada existente, desenho de opções de atendi
 | --- | --- |
 | **1. Discovery** | [Análise dos canais e oportunidades de melhoria no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581172626138) |
 | **2. Canvas MVP** | [Quadro visual de análise e referências](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581793445322) |
-| **3. Jornada de atendimento** | [Fluxograma original de segurado e não segurado](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581758623044) |
+| **3. Jornada de atendimento** | [Fluxo completo no GitHub — 43 etapas e 36 ligações](./docs/FLUXO_MIRO_JORNADA_COMPLETA.md) · [Miro original](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581758623044) |
 | **4. Requisitos / BDD** | [10 cenários de usuário e regras originais](./docs/CENARIOS_E_REGRAS_ORIGINAIS.md) |
-| **5. Estudo de backlog** | [Fluxograma de opções do MVP no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581755947826) |
+| **5. Estudo de backlog** | [Fluxo completo no GitHub — 34 etapas e 24 ligações](./docs/FLUXO_MIRO_BACKLOG_COMPLETO.md) · [Miro original](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581755947826) |
 | **6. POC 01** | [Frame no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764582022045353) · [Vídeo demonstrativo](https://youtu.be/u4LxF7WXEUY) |
 | **7. POC 02** | [Frame no Miro com a sequência de telas](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764582024733080) |
 | **Documentação completa** | [Contexto, jornada, backlog, comportamentos e evidências](./docs/CASE_MAXPAR_AUTOGLASS.md) |
@@ -82,8 +82,10 @@ Esse case demonstra como a **análise da operação, o mapeamento visual e a esc
 ## Arquivos de referência e preservação
 
 - [Case detalhado Maxpar / Autoglass](./docs/CASE_MAXPAR_AUTOGLASS.md)
+- [Jornada completa extraída do Miro — etapas, conexões e mensagens](./docs/FLUXO_MIRO_JORNADA_COMPLETA.md)
+- [Estudo de backlog completo extraído do Miro — etapas, conexões e mensagens](./docs/FLUXO_MIRO_BACKLOG_COMPLETO.md)
 - [Cenários e regras transcritos do Miro sem mudar seu conteúdo](./docs/CENARIOS_E_REGRAS_ORIGINAIS.md)
 - [README original, preservado integralmente](./DOCUMENTACAO_ORIGINAL.md)
 - [Mapeamento AS IS original](./Mapeamento%20As%20is_detalhe.png)
 
-> **Transparência do portfólio:** não foram inventados indicadores, resultados financeiros, percentuais, datas de implantação ou integrações. **O quadro Miro é a fonte completa para os diagramas e as imagens**; eles não foram substituídos por versões redesenhadas nesta atualização.
+> **Transparência do portfólio:** não foram inventados indicadores, resultados financeiros, percentuais, datas de implantação ou integrações. **Os dois fluxos textuais foram transcritos com suas conexões para o GitHub**, enquanto o quadro Miro continua sendo a referência visual original para layout, prints, canvas e POCs. Nenhum conteúdo foi editado no Miro.
