@@ -41,6 +41,8 @@ Esses itens são **achados/hipóteses anotados durante a descoberta**. Não há,
 
 ## 4. Jornada modelada: WhatsApp segurado e não segurado
 
+**[Fluxo completo exportado para o GitHub — 43 etapas e 36 ligações](./FLUXO_MIRO_JORNADA_COMPLETA.md)**. Esse material reproduz a topologia e transcreve os textos de cada etapa registrada no Miro.
+
 A [Jornada 1 no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581758623044) registra a saudação do WhatsApp da Maxpar, a distinção entre segurado e não segurado e o tratamento de opções válidas e inválidas.
 
 ### Ramificação de segurado
@@ -91,6 +93,8 @@ flowchart TD
 *Esta é uma **síntese interpretativa** da jornada mapeada, sem reescrever as transições, mensagens ou regras originais. O fluxograma detalhado, incluindo caminhos alternativos, continua no Miro.*
 
 ## 5. Estudo dos próximos backlogs — MVP
+
+**[Fluxo completo exportado para o GitHub — 34 etapas e 24 ligações](./FLUXO_MIRO_BACKLOG_COMPLETO.md)**. Os rótulos foram abreviados apenas no diagrama, mas o texto completo de cada item é reproduzido na seção de rastreabilidade.
 
 A área [Estudo dos próximos backlogs](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581755947826) propõe um menu para o usuário identificado como cliente:
 
@@ -166,10 +170,12 @@ Essas competências traduzem as entregas do case sem acrescentar métricas, data
 | Fonte | Papel na documentação |
 | --- | --- |
 | [Miro original](https://miro.com/app/board/uXjVNlaxnuE=/) | Fluxos, setas, imagens e conteúdos oficiais do quadro |
+| [Jornada completa](./FLUXO_MIRO_JORNADA_COMPLETA.md) | 43 etapas e 36 conexões extraídas do fluxo do Miro |
+| [Backlog completo](./FLUXO_MIRO_BACKLOG_COMPLETO.md) | 34 etapas e 24 conexões extraídas do fluxo do Miro |
 | [Cenários e regras](./CENARIOS_E_REGRAS_ORIGINAIS.md) | Conteúdo textual registrado no Miro, sem mudança de lógica |
 | [README anterior](../DOCUMENTACAO_ORIGINAL.md) | Histórico da apresentação original do case |
 | [PNG do mapeamento original](../Mapeamento%20As%20is_detalhe.png) | Evidência visual já publicada no GitHub |
 
 ### Limites do case
 
-Este repositório apresenta uma **documentação de portfólio**, não um sistema implantado. Não foram inseridos indicadores fictícios de conversão, satisfação, economia, NPS ou produtividade. O board do Miro permanece como fonte definitiva para o fluxo, os detalhes de interface e as evidências visuais.
+Este repositório apresenta uma **documentação de portfólio**, não um sistema implantado. Não foram inseridos indicadores fictícios de conversão, satisfação, economia, NPS ou produtividade. O board do Miro permanece como fonte visual definitiva para a disposição dos itens, detalhes de interface e evidências visuais, enquanto a topologia e as mensagens das duas áreas de fluxograma também estão documentadas no GitHub.
