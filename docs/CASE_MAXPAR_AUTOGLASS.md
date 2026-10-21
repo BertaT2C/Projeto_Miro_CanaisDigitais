@@ -71,7 +71,7 @@ A transcrição completa dos 10 cenários está em [CENARIOS_E_REGRAS_ORIGINAIS.
 
 ### Visão executiva, sem substituir o fluxo do Miro
 
-\`\`\`mermaid
+```mermaid
 flowchart TD
     A["Entrada no WhatsApp da Maxpar"] --> B["Saudação e orientações iniciais"]
     B --> C{"Segurado?"}
@@ -86,7 +86,7 @@ flowchart TD
     K --> J
     B -.-> L["Entrada inválida: orientação e nova tentativa"]
     L -.-> M["Segunda entrada inválida: encerramento"]
-\`\`\`
+```
 
 *Esta é uma **síntese interpretativa** da jornada mapeada, sem reescrever as transições, mensagens ou regras originais. O fluxograma detalhado, incluindo caminhos alternativos, continua no Miro.*
 
@@ -105,7 +105,7 @@ Não foi presumido o desenho detalhado das opções "Seguradoras" e "Oficina" al
 
 ### Visão resumida do estudo de backlog
 
-\`\`\`mermaid
+```mermaid
 flowchart TD
     A["WhatsApp Maxpar: entrada do usuário"] --> B{"Sou cliente?"}
     B -->|"Sim"| C["Seleção de assunto"]
@@ -117,7 +117,7 @@ flowchart TD
     H --> I["Informar seguradora"]
     I --> J{"Seguradora reconhecida?"}
     J -->|"Não"| K["Orientar consulta no Portal do Segurado"]
-\`\`\`
+```
 
 *Diagrama de navegação criado apenas para leitura rápida; **não** substitui o estudo original, que pode conter outros passos e alternativas.*
 
