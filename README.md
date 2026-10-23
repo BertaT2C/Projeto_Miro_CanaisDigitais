@@ -2,23 +2,30 @@
 
 **Análise de Negócios · Discovery · Mapeamento de Processos · Jornada do Usuário · MVP · Backlog · BDD**
 
-Projeto de estudo e evolução de atendimento digital ligado a **seguros auto**, serviços ao segurado/beneficiário e direcionamento ao **e-commerce da Autoglass**, conforme o [quadro original do Miro](https://miro.com/app/board/uXjVNlaxnuE=/).
+Projeto de estudo e evolução de atendimento digital ligado a **seguros auto**, serviços ao segurado/beneficiário e direcionamento ao **e-commerce da Autoglass**, conforme o [quadro original do Miro](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048).
 
 O case reúne investigação da jornada existente, desenho de opções de atendimento no WhatsApp da Maxpar, cenários de resposta, regras de negócio, estudo de futuras funcionalidades e provas de conceito (POCs).
 
-> **Os fluxos, as tarefas, imagens e os dados originais não foram alterados.** A fonte visual e funcional continua sendo o [quadro do Miro](https://miro.com/app/board/uXjVNlaxnuE=/). Esta página é uma organização do case para portfólio, não uma afirmação de que todos os fluxos foram implantados.
+> ### 🔎 Acesse o projeto original no Miro
+>
+> **[Abrir quadro completo e navegável — Discovery, jornadas, MVP, histórias de usuário e POCs](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048)**
+>
+> Acesso por link compartilhado pela autora. Explore os fluxos, as conexões, as telas e os conteúdos detalhados no próprio Miro; o GitHub organiza a documentação e as evidências para portfólio.
+
+
+> **Os fluxos, as tarefas, imagens e os dados originais não foram alterados.** A fonte visual e funcional continua sendo o [quadro do Miro](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048). Esta página é uma organização do case para portfólio, não uma afirmação de que todos os fluxos foram implantados.
 
 ## Navegue pelo projeto
 
 | Etapa | Conteúdo disponível |
 | --- | --- |
-| **1. Discovery** | [Análise dos canais e oportunidades de melhoria no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581172626138) |
-| **2. Canvas MVP** | [Quadro visual de análise e referências](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581793445322) |
-| **3. Jornada de atendimento** | [Fluxo completo no GitHub — 43 etapas e 36 ligações](./docs/FLUXO_MIRO_JORNADA_COMPLETA.md) · [Miro original](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581758623044) |
+| **1. Discovery** | [Análise dos canais e oportunidades de melhoria no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764581172626138) |
+| **2. Canvas MVP** | [Quadro visual de análise e referências](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764581793445322) |
+| **3. Jornada de atendimento** | [Fluxo completo no GitHub — 43 etapas e 36 ligações](./docs/FLUXO_MIRO_JORNADA_COMPLETA.md) · [Miro original](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764581758623044) |
 | **4. Requisitos / BDD** | [10 cenários de usuário e regras originais](./docs/CENARIOS_E_REGRAS_ORIGINAIS.md) |
-| **5. Estudo de backlog** | [Fluxo completo no GitHub — 34 etapas e 24 ligações](./docs/FLUXO_MIRO_BACKLOG_COMPLETO.md) · [Miro original](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581755947826) |
-| **6. POC 01** | [Frame no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764582022045353) · [Vídeo demonstrativo](https://youtu.be/u4LxF7WXEUY) |
-| **7. POC 02** | [Frame no Miro com a sequência de telas](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764582024733080) |
+| **5. Estudo de backlog** | [Fluxo completo no GitHub — 34 etapas e 24 ligações](./docs/FLUXO_MIRO_BACKLOG_COMPLETO.md) · [Miro original](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764581755947826) |
+| **6. POC 01** | [Frame no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764582022045353) · [Vídeo demonstrativo](https://youtu.be/u4LxF7WXEUY) |
+| **7. POC 02** | [Frame no Miro com a sequência de telas](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764582024733080) |
 | **Documentação completa** | [Contexto, jornada, backlog, comportamentos e evidências](./docs/CASE_MAXPAR_AUTOGLASS.md) |
 
 ## Objetivo de negócio
@@ -26,6 +33,22 @@ O case reúne investigação da jornada existente, desenho de opções de atendi
 Analisar e estruturar uma jornada de atendimento via WhatsApp que **oriente o usuário ao canal adequado**, diferencie o atendimento para segurados e não segurados e reduza ambiguidades na navegação.
 
 No quadro, o **WhatsApp da Maxpar Serviços** conduz o contato inicial e apresenta informações de assistência relacionadas ao seguro. O encaminhamento à **Autoglass** é documentado nos casos voltados a **compra de peças automotivas**, incluindo o direcionamento ao e-commerce.
+
+
+## Canais digitais e jornada analisados
+
+| Canal ou ponto de contato | Papel identificado no quadro | Oportunidade documentada |
+| --- | --- | --- |
+| **WhatsApp da Maxpar** | Primeiro contato com segurados ou não segurados, apresentação de menu e mensagens de orientação | Tornar as opções claras, tratar respostas inválidas e oferecer transbordo para atendimento humano |
+| **Portal do Segurado (Maxpar)** | Consulta e abertura de atendimento, com orientação para selecionar o card **Segurado & Corretor** e a seguradora | Facilitar o direcionamento correto, evitando navegação confusa |
+| **E-commerce Autoglass** | Canal indicado para quem busca compra de peças automotivas | Informar o destino adequado aos não segurados e na mensagem de encerramento |
+| **Canais complementares** | Atendimento humano, assistência 24 horas e Linktree relacionados à jornada | Orientar sobre horários, meios de contato e alternativas para cada necessidade |
+
+**AS IS — pontos observados no Discovery:** registros de interações sem resposta ou sem direcionamento, necessidade de informação de horário de atendimento e existência de diferentes pontos de contato. São observações do quadro, não medições de desempenho.
+
+**Evolução estudada / TO BE:** jornada com menu orientado ao perfil, mensagens compreensíveis, tratamento de opções inválidas, direcionamento para atendimento humano e estudo de menu de serviços (**Assistência Dia e Noite, Seguradoras, Oficina e voltar**).
+
+**POCs:** o quadro inclui protótipos e demonstração do fluxo. A existência de um MVP ou POC **não significa, por si só, implantação em produção**.
 
 ## Jornada documentada no Miro
 
@@ -41,7 +64,7 @@ flowchart LR
     H -.-> I["Nova tentativa inválida: encerrar"]
 ```
 
-**Importante:** essa é uma **visão executiva simplificada**, não uma alteração do fluxograma original. Consulte o [fluxo completo no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581758623044), que contém todos os caminhos, decisões, mensagens e conexões.
+**Importante:** essa é uma **visão executiva simplificada**, não uma alteração do fluxograma original. Consulte o [fluxo completo no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764581758623044), que contém todos os caminhos, decisões, mensagens e conexões.
 
 ### Mapeamento AS IS já publicado
 
@@ -66,8 +89,8 @@ O quadro contém **cenários denominados “Sou segurado” e “Sou cliente” 
 
 https://youtu.be/u4LxF7WXEUY
 
-**Quadro completo, com todos os fluxos, telas, prints, canvas e POCs:**  
-https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=919581018875
+**Quadro completo, com todos os fluxos, telas, prints, canvas e POCs — link liberado para compartilhamento:**  
+https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048
 
 **Imagem original também mantida no material anterior:**
 
