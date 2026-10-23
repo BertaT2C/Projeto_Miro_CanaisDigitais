@@ -1,10 +1,10 @@
 # Histórias de usuário e regras originais — WhatsApp Maxpar
 
-**Fonte:** [História do usuário — quadro Miro](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764581797052471). Esta é uma transcrição dos cenários e mensagens que já estavam no quadro, sem criar regras, alterar fluxos ou atribuir resultados novos. Os erros de grafia originais foram preservados.
+**Fonte:** [História do usuário — quadro Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581797052471). Esta é uma transcrição dos cenários e mensagens que já estavam no quadro, sem criar regras, alterar fluxos ou atribuir resultados novos. Os erros de grafia originais foram preservados.
 
 ## Cenários registrados
 
-[Ver elemento original no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764581797052845)
+[Ver elemento original no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581797052845)
 
 ```text
 Cenário1: Saudação
@@ -78,7 +78,7 @@ encerra
 
 ## Cenários registrados
 
-[Ver elemento original no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764581801976275)
+[Ver elemento original no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581801976275)
 
 ```text
 Cenário 7: Continuar o atendimento
@@ -136,7 +136,7 @@ Estamos transferindo para um de nossos consultores, por favor aguarde.
 
 ## Regras de negócio
 
-[Ver elemento original no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764581797514125)
+[Ver elemento original no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581797514125)
 
 ```text
 Regras de negócios:
