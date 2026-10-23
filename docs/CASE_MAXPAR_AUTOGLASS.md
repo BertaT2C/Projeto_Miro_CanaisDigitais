@@ -2,9 +2,9 @@
 
 **Tema:** transformação de canais digitais e automação parcial da jornada de atendimento relacionada a seguros auto, serviços ao segurado e direcionamento para canais da Autoglass.
 
-**Link de acesso ao quadro original (compartilhamento liberado pela autora):** [Abrir Miro](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048).
+**Link principal de acesso ao quadro original:** [Abrir Miro](https://miro.com/app/board/uXjVNlaxnuE=/).
 
-**Ferramenta de trabalho:** Miro. **Fonte original:** [quadro completo Maxpar/Autoglass](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048).
+**Ferramenta de trabalho:** Miro. **Fonte original:** [quadro completo Maxpar/Autoglass](https://miro.com/app/board/uXjVNlaxnuE=/).
 
 > Este case documenta **o que está modelado no quadro**: Discovery, jornada de WhatsApp, histórias/regras, estudo de backlog, canvas MVP e POCs. A presença de um fluxo ou uma POC **não comprova implantação em produção**. O quadro original, com os links, imagens, telas, setas e posicionamento dos elementos, permanece intacto no Miro.
 
@@ -20,13 +20,13 @@ O estudo também inclui um **MVP** e caminhos considerados para futuros refiname
 
 | Seção original | Material | Abrir |
 | --- | --- | --- |
-| Discovery - Canal do segurado/beneficiário | Prints e anotações sobre canais, comunicação e oportunidades de melhoria | [Discovery](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764581172626138) |
-| Canvas MVP | Quadro com quatro imagens de referência | [Canvas MVP](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764581793445322) |
-| Jornada 1-Menu atendimento ao seguurado e não segurado | Fluxograma da jornada, seus caminhos, decisões e mensagens | [Jornada 1](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764581758623044) |
-| História do usuário | 10 cenários detalhados, mensagens e regras de negócio | [Histórias de usuário](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764581797052471) |
-| Estudo dos próximos backlogs - Fluxograma (MVP) | Fluxo de estudo de atendimento, assistência, seguradoras e oficinas | [Estudo de backlog](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764581755947826) |
-| POC 01- do MVP | Demonstração em vídeo vinculada ao quadro | [POC 01](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764582022045353) |
-| POC 02 - MVP | Sequência de telas e imagens de POC | [POC 02](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764582024733080) |
+| Discovery - Canal do segurado/beneficiário | Prints e anotações sobre canais, comunicação e oportunidades de melhoria | [Discovery](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581172626138) |
+| Canvas MVP | Quadro com quatro imagens de referência | [Canvas MVP](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581793445322) |
+| Jornada 1-Menu atendimento ao seguurado e não segurado | Fluxograma da jornada, seus caminhos, decisões e mensagens | [Jornada 1](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581758623044) |
+| História do usuário | 10 cenários detalhados, mensagens e regras de negócio | [Histórias de usuário](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581797052471) |
+| Estudo dos próximos backlogs - Fluxograma (MVP) | Fluxo de estudo de atendimento, assistência, seguradoras e oficinas | [Estudo de backlog](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581755947826) |
+| POC 01- do MVP | Demonstração em vídeo vinculada ao quadro | [POC 01](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764582022045353) |
+| POC 02 - MVP | Sequência de telas e imagens de POC | [POC 02](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764582024733080) |
 
 **Vídeo da POC 01:** https://youtu.be/u4LxF7WXEUY
 
@@ -58,7 +58,7 @@ Esses itens são **achados/hipóteses anotados durante a descoberta**. Não há,
 
 **[Fluxo completo exportado para o GitHub — 43 etapas e 36 ligações](./FLUXO_MIRO_JORNADA_COMPLETA.md)**. Esse material reproduz a topologia e transcreve os textos de cada etapa registrada no Miro.
 
-A [Jornada 1 no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764581758623044) registra a saudação do WhatsApp da Maxpar, a distinção entre segurado e não segurado e o tratamento de opções válidas e inválidas.
+A [Jornada 1 no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581758623044) registra a saudação do WhatsApp da Maxpar, a distinção entre segurado e não segurado e o tratamento de opções válidas e inválidas.
 
 ### Ramificação de segurado
 
@@ -111,7 +111,7 @@ flowchart TD
 
 **[Fluxo completo exportado para o GitHub — 34 etapas e 24 ligações](./FLUXO_MIRO_BACKLOG_COMPLETO.md)**. Os rótulos foram abreviados apenas no diagrama, mas o texto completo de cada item é reproduzido na seção de rastreabilidade.
 
-A área [Estudo dos próximos backlogs](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764581755947826) propõe um menu para o usuário identificado como cliente:
+A área [Estudo dos próximos backlogs](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581755947826) propõe um menu para o usuário identificado como cliente:
 
 1. **Assistência Dia e Noite** (guincho, carro reserva, motorista amigo);
 2. **Seguradoras**;
@@ -162,9 +162,9 @@ Da mesma forma, a área de estudo de backlog representa uma evolução de opçõ
 
 ## 7. POCs, telas e vídeo — evidências
 
-- [Canvas MVP — quatro imagens originais](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764581793445322): informações visuais existentes no quadro, preservadas no local de origem.
-- [POC 01 — Miro](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764582022045353), com **vídeo demonstrativo:** https://youtu.be/u4LxF7WXEUY.
-- [POC 02 — Miro](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764582024733080): sequência de imagens do teste/experiência.
+- [Canvas MVP — quatro imagens originais](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581793445322): informações visuais existentes no quadro, preservadas no local de origem.
+- [POC 01 — Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764582022045353), com **vídeo demonstrativo:** https://youtu.be/u4LxF7WXEUY.
+- [POC 02 — Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764582024733080): sequência de imagens do teste/experiência.
 - [Mapeamento AS IS já existente no GitHub](../Mapeamento%20As%20is_detalhe.png): imagem original do repositório, não alterada.
 
 Como as imagens e conexões são artefatos do quadro, os **links diretos do Miro** são a referência visual exata. O repositório não afirma que esses anexos foram reproduzidos como arquivos de imagem independentes.
@@ -184,7 +184,7 @@ Essas competências traduzem as entregas do case sem acrescentar métricas, data
 
 | Fonte | Papel na documentação |
 | --- | --- |
-| [Miro original](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048) | Fluxos, setas, imagens e conteúdos oficiais do quadro |
+| [Miro original](https://miro.com/app/board/uXjVNlaxnuE=/) | Fluxos, setas, imagens e conteúdos oficiais do quadro |
 | [Jornada completa](./FLUXO_MIRO_JORNADA_COMPLETA.md) | 43 etapas e 36 conexões extraídas do fluxo do Miro |
 | [Backlog completo](./FLUXO_MIRO_BACKLOG_COMPLETO.md) | 34 etapas e 24 conexões extraídas do fluxo do Miro |
 | [Cenários e regras](./CENARIOS_E_REGRAS_ORIGINAIS.md) | Conteúdo textual registrado no Miro, sem mudança de lógica |
