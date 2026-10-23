@@ -1,6 +1,6 @@
 # Estudo do backlog — Fluxograma MVP
 
-**Fonte do processo:** [Abrir a seção original no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581755947826).
+**Fonte do processo:** [Abrir a seção original no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764581755947826).
 
 Esta transcrição gráfica foi gerada **a partir dos IDs de etapas e ligações do fluxo original**, mantendo o sentido de cada ligação e os textos originais listados abaixo. Os rótulos do diagrama foram abreviados exclusivamente para legibilidade; **as mensagens completas não foram reescritas**. Para posição, formas, imagens e contexto, a referência definitiva é o Miro.
 
@@ -72,7 +72,7 @@ flowchart TD
 
 ### 1. 3458764581755990950
 
-[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581755990950)
+[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764581755990950)
 
 ```text
 Inicio
@@ -80,7 +80,7 @@ Inicio
 
 ### 2. 3458764581755991353
 
-[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581755991353)
+[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764581755991353)
 
 ```text
 Olá! 👋
@@ -89,7 +89,7 @@ Este é o WhatsApp oficial da Maxpar Serviços.
 
 ### 3. 3458764581756296462
 
-[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581756296462)
+[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764581756296462)
 
 ```text
 Entrada do usuário
@@ -97,7 +97,7 @@ Entrada do usuário
 
 ### 4. 3458764581756376649
 
-[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581756376649)
+[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764581756376649)
 
 ```text
 Para atendimento clica em uma das opções:
@@ -105,7 +105,7 @@ Para atendimento clica em uma das opções:
 
 ### 5. 3458764581756376821
 
-[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581756376821)
+[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764581756376821)
 
 ```text
 Menu numérico:
@@ -116,7 +116,7 @@ Menu numérico:
 
 ### 6. 3458764581756649414
 
-[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581756649414)
+[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764581756649414)
 
 ```text
 1. Sou cliente
@@ -124,7 +124,7 @@ Menu numérico:
 
 ### 7. 3458764581756649540
 
-[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581756649540)
+[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764581756649540)
 
 ```text
 Sobre o que deseja falar hoje?
@@ -132,7 +132,7 @@ Sobre o que deseja falar hoje?
 
 ### 8. 3458764581756703817
 
-[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581756703817)
+[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764581756703817)
 
 ```text
 ⚠️ Importante: ainda não entendemos
@@ -141,7 +141,7 @@ Sobre o que deseja falar hoje?
 
 ### 9. 3458764581756767946
 
-[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581756767946)
+[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764581756767946)
 
 ```text
 1. Assistência Dia e Noite (guincho, carro reserva, motorista amigo)
@@ -153,7 +153,7 @@ Ou digite 0 para voltar
 
 ### 10. 3458764581756768750
 
-[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581756768750)
+[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764581756768750)
 
 ```text
 1. Assistência Dia e Noite
@@ -161,7 +161,7 @@ Ou digite 0 para voltar
 
 ### 11. 3458764581756831614
 
-[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581756831614)
+[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764581756831614)
 
 ```text
 Para abertura de Solicitação de Guincho, carro reserva, motorista amigo clique no link abaixo e depois clique em 'Enviar':
@@ -175,7 +175,7 @@ Posso ajudar em algo mais?
 
 ### 12. 3458764581756893709
 
-[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581756893709)
+[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764581756893709)
 
 ```text
 Fim
@@ -183,7 +183,7 @@ Fim
 
 ### 13. 3458764581756893791
 
-[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581756893791)
+[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764581756893791)
 
 ```text
 2. Não
@@ -191,7 +191,7 @@ Fim
 
 ### 14. 3458764581756960002
 
-[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581756960002)
+[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764581756960002)
 
 ```text
 
@@ -199,7 +199,7 @@ Fim
 
 ### 15. 3458764581756960591
 
-[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581756960591)
+[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764581756960591)
 
 ```text
 1. Sim
@@ -207,7 +207,7 @@ Fim
 
 ### 16. 3458764581756996970
 
-[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581756996970)
+[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764581756996970)
 
 ```text
 A Maxpar Soluções agradece eu contato
@@ -215,7 +215,7 @@ A Maxpar Soluções agradece eu contato
 
 ### 17. 3458764581757062942
 
-[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581757062942)
+[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764581757062942)
 
 ```text
 Inicio
@@ -223,7 +223,7 @@ Inicio
 
 ### 18. 3458764581757063006
 
-[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581757063006)
+[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764581757063006)
 
 ```text
 Transferência para Whatsapp Assistência Maxpar
@@ -231,7 +231,7 @@ Transferência para Whatsapp Assistência Maxpar
 
 ### 19. 3458764581757063143
 
-[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581757063143)
+[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764581757063143)
 
 ```text
 Entrada do usuário
@@ -239,7 +239,7 @@ Entrada do usuário
 
 ### 20. 3458764581757063435
 
-[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581757063435)
+[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764581757063435)
 
 ```text
 
@@ -247,7 +247,7 @@ Entrada do usuário
 
 ### 21. 3458764581757150504
 
-[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581757150504)
+[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764581757150504)
 
 ```text
 Olá! Eu sou assistente virtual da Assistência 24 horas
@@ -255,7 +255,7 @@ Olá! Eu sou assistente virtual da Assistência 24 horas
 
 ### 22. 3458764581757785840
 
-[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581757785840)
+[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764581757785840)
 
 ```text
 Digite o primeiro nome da sua seguradora, em letra minúsculas e sem ascento, exemplo 'porto', 'liberty'.
@@ -265,7 +265,7 @@ Vamos lá, pode digitar:
 
 ### 23. 3458764581757841382
 
-[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581757841382)
+[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764581757841382)
 
 ```text
 porto
@@ -273,7 +273,7 @@ porto
 
 ### 24. 3458764581757841573
 
-[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581757841573)
+[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764581757841573)
 
 ```text
 Para abertura de atendimento clique no link abaixo:
@@ -285,7 +285,7 @@ Se preferir falar na Central de atendimento ligue:
 
 ### 25. 3458764581757841918
 
-[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581757841918)
+[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764581757841918)
 
 ```text
 Desculpe, não conseguimos identificar essa seguradora em nosso sistema. 😞
@@ -293,7 +293,7 @@ Desculpe, não conseguimos identificar essa seguradora em nosso sistema. 😞
 
 ### 26. 3458764581757907028
 
-[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581757907028)
+[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764581757907028)
 
 ```text
 Mas você também pode fazer essa consulta pelo Portal de segurado da Maxpar. Na página inicial, clica no card Segurado & Corretor e busca pelo nome do proponente.
@@ -301,7 +301,7 @@ Mas você também pode fazer essa consulta pelo Portal de segurado da Maxpar. Na
 
 ### 27. 3458764581757907159
 
-[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581757907159)
+[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764581757907159)
 
 ```text
 Se preferir, acessa por aqui: ⬇️
@@ -311,7 +311,7 @@ https://www.maxpar.com/
 
 ### 28. 3458764581757907216
 
-[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581757907216)
+[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764581757907216)
 
 ```text
 Agradecemos por usar o WhatsApp para segurados da Maxpar Soluções. Precisando, é só chamar. 👋
@@ -319,7 +319,7 @@ Agradecemos por usar o WhatsApp para segurados da Maxpar Soluções. Precisando,
 
 ### 29. 3458764581757907375
 
-[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581757907375)
+[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764581757907375)
 
 ```text
 Válido
@@ -327,7 +327,7 @@ Válido
 
 ### 30. 3458764581758059272
 
-[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581758059272)
+[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764581758059272)
 
 ```text
 Fim
@@ -335,7 +335,7 @@ Fim
 
 ### 31. 3458764581758059290
 
-[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581758059290)
+[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764581758059290)
 
 ```text
 Fim
@@ -343,7 +343,7 @@ Fim
 
 ### 32. 3458764581758128463
 
-[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581758128463)
+[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764581758128463)
 
 ```text
 Agradecemos por usar o WhatsApp para segurados da Maxpar Soluções. Precisando, é só chamar. 👋
@@ -351,7 +351,7 @@ Agradecemos por usar o WhatsApp para segurados da Maxpar Soluções. Precisando,
 
 ### 33. 3458764581760726903
 
-[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581760726903)
+[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764581760726903)
 
 ```text
 
@@ -359,7 +359,7 @@ Agradecemos por usar o WhatsApp para segurados da Maxpar Soluções. Precisando,
 
 ### 34. 3458764581760789351
 
-[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581760789351)
+[Localizar no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764581760789351)
 
 ```text
 
