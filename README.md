@@ -2,30 +2,34 @@
 
 **Análise de Negócios · Discovery · Mapeamento de Processos · Jornada do Usuário · MVP · Backlog · BDD**
 
-Projeto de estudo e evolução de atendimento digital ligado a **seguros auto**, serviços ao segurado/beneficiário e direcionamento ao **e-commerce da Autoglass**, conforme o [quadro original do Miro](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048).
+Projeto de estudo e evolução de atendimento digital ligado a **seguros auto**, serviços ao segurado/beneficiário e direcionamento ao **e-commerce da Autoglass**, conforme o [quadro original do Miro](https://miro.com/app/board/uXjVNlaxnuE=/).
 
 O case reúne investigação da jornada existente, desenho de opções de atendimento no WhatsApp da Maxpar, cenários de resposta, regras de negócio, estudo de futuras funcionalidades e provas de conceito (POCs).
 
 > ### 🔎 Acesse o projeto original no Miro
 >
-> **[Abrir quadro completo e navegável — Discovery, jornadas, MVP, histórias de usuário e POCs](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048)**
+> **[Abrir quadro completo e navegável — Discovery, jornadas, MVP, histórias de usuário e POCs](https://miro.com/app/board/uXjVNlaxnuE=/)**
 >
-> Acesso por link compartilhado pela autora. Explore os fluxos, as conexões, as telas e os conteúdos detalhados no próprio Miro; o GitHub organiza a documentação e as evidências para portfólio.
+> Endereço oficial do quadro identificado no Miro. Explore os fluxos, as conexões, as telas e os conteúdos detalhados no próprio Miro; o GitHub organiza a documentação e as evidências para portfólio.
 
 
-> **Os fluxos, as tarefas, imagens e os dados originais não foram alterados.** A fonte visual e funcional continua sendo o [quadro do Miro](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048). Esta página é uma organização do case para portfólio, não uma afirmação de que todos os fluxos foram implantados.
+> **Os fluxos, as tarefas, imagens e os dados originais não foram alterados.** A fonte visual e funcional continua sendo o [quadro do Miro](https://miro.com/app/board/uXjVNlaxnuE=/). Esta página é uma organização do case para portfólio, não uma afirmação de que todos os fluxos foram implantados.
+
+**Link alternativo enviado pela autora:** [Abrir com código de compartilhamento](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048).
+
+> **Caso o Miro exiba “Página não encontrada” no celular:** copie o endereço oficial, abra-o diretamente no Chrome (preferencialmente em uma aba anônima) e confira, no Miro, se **Compartilhar → Qualquer pessoa com o link → Pode visualizar** está ativado. Enquanto isso, as transcrições dos [fluxos completos](./docs/FLUXO_MIRO_JORNADA_COMPLETA.md) e dos [cenários de usuário](./docs/CENARIOS_E_REGRAS_ORIGINAIS.md) também podem ser consultadas no GitHub.
 
 ## Navegue pelo projeto
 
 | Etapa | Conteúdo disponível |
 | --- | --- |
-| **1. Discovery** | [Análise dos canais e oportunidades de melhoria no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764581172626138) |
-| **2. Canvas MVP** | [Quadro visual de análise e referências](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764581793445322) |
-| **3. Jornada de atendimento** | [Fluxo completo no GitHub — 43 etapas e 36 ligações](./docs/FLUXO_MIRO_JORNADA_COMPLETA.md) · [Miro original](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764581758623044) |
+| **1. Discovery** | [Análise dos canais e oportunidades de melhoria no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581172626138) |
+| **2. Canvas MVP** | [Quadro visual de análise e referências](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581793445322) |
+| **3. Jornada de atendimento** | [Fluxo completo no GitHub — 43 etapas e 36 ligações](./docs/FLUXO_MIRO_JORNADA_COMPLETA.md) · [Miro original](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581758623044) |
 | **4. Requisitos / BDD** | [10 cenários de usuário e regras originais](./docs/CENARIOS_E_REGRAS_ORIGINAIS.md) |
-| **5. Estudo de backlog** | [Fluxo completo no GitHub — 34 etapas e 24 ligações](./docs/FLUXO_MIRO_BACKLOG_COMPLETO.md) · [Miro original](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764581755947826) |
-| **6. POC 01** | [Frame no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764582022045353) · [Vídeo demonstrativo](https://youtu.be/u4LxF7WXEUY) |
-| **7. POC 02** | [Frame no Miro com a sequência de telas](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764582024733080) |
+| **5. Estudo de backlog** | [Fluxo completo no GitHub — 34 etapas e 24 ligações](./docs/FLUXO_MIRO_BACKLOG_COMPLETO.md) · [Miro original](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581755947826) |
+| **6. POC 01** | [Frame no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764582022045353) · [Vídeo demonstrativo](https://youtu.be/u4LxF7WXEUY) |
+| **7. POC 02** | [Frame no Miro com a sequência de telas](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764582024733080) |
 | **Documentação completa** | [Contexto, jornada, backlog, comportamentos e evidências](./docs/CASE_MAXPAR_AUTOGLASS.md) |
 
 ## Objetivo de negócio
@@ -64,7 +68,7 @@ flowchart LR
     H -.-> I["Nova tentativa inválida: encerrar"]
 ```
 
-**Importante:** essa é uma **visão executiva simplificada**, não uma alteração do fluxograma original. Consulte o [fluxo completo no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048&moveToWidget=3458764581758623044), que contém todos os caminhos, decisões, mensagens e conexões.
+**Importante:** essa é uma **visão executiva simplificada**, não uma alteração do fluxograma original. Consulte o [fluxo completo no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581758623044), que contém todos os caminhos, decisões, mensagens e conexões.
 
 ### Mapeamento AS IS já publicado
 
@@ -89,8 +93,8 @@ O quadro contém **cenários denominados “Sou segurado” e “Sou cliente” 
 
 https://youtu.be/u4LxF7WXEUY
 
-**Quadro completo, com todos os fluxos, telas, prints, canvas e POCs — link liberado para compartilhamento:**  
-https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048
+**Quadro completo, com todos os fluxos, telas, prints, canvas e POCs — endereço oficial:**  
+https://miro.com/app/board/uXjVNlaxnuE=/
 
 **Imagem original também mantida no material anterior:**
 
