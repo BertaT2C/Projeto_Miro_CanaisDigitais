@@ -8,16 +8,19 @@ O case reúne investigação da jornada existente, desenho de opções de atendi
 
 > ### 🔎 Acesse o projeto original no Miro
 >
-> **[Abrir quadro completo e navegável — Discovery, jornadas, MVP, histórias de usuário e POCs](https://miro.com/app/board/uXjVNlaxnuE=/)**
->
-> Endereço oficial do quadro identificado no Miro. Explore os fluxos, as conexões, as telas e os conteúdos detalhados no próprio Miro; o GitHub organiza a documentação e as evidências para portfólio.
+[**Abrir quadro completo e navegável — Discovery, jornadas, MVP, histórias de usuário e POCs**](https://miro.com/app/board/uXjVNlaxnuE=/)
+
+Endereço oficial do quadro identificado no Miro. Explore os fluxos, as conexões, as telas e os conteúdos detalhados no Miro.
+
+A fonte visual oficial é o [quadro no Miro](https://miro.com/app/board/uXjVNlaxnuE=/).
+> **Observação:** esta página é uma organização de case para portfólio.
 
 
-> **Os fluxos, as tarefas, imagens e os dados originais não foram alterados.** A fonte visual e funcional continua sendo o [quadro do Miro](https://miro.com/app/board/uXjVNlaxnuE=/). Esta página é uma organização do case para portfólio, não uma afirmação de que todos os fluxos foram implantados.
+> **Os fluxos, as tarefas, imagens e os dados originais não foram alterados.** A fonte visual e funcional continua sendo o [quadro do Miro](https://miro.com/app/board/uXjVNlaxnuE=/).
 
 **Link alternativo enviado pela autora:** [Abrir com código de compartilhamento](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048).
 
-> **Caso o Miro exiba “Página não encontrada” no celular:** copie o endereço oficial, abra-o diretamente no Chrome (preferencialmente em uma aba anônima) e confira, no Miro, se **Compartilhar → Qualquer pessoa com o link → Pode visualizar** está ativado. Enquanto isso, as transcrições dos [fluxos completos](./docs/FLUXO_MIRO_JORNADA_COMPLETA.md) e dos [cenários de usuário](./docs/CENARIOS_E_REGRAS_ORIGINAIS.md) também podem ser consultadas no GitHub.
+
 
 ## Navegue pelo projeto
 
