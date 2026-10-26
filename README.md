@@ -18,9 +18,6 @@ A fonte visual oficial é o [quadro no Miro](https://miro.com/app/board/uXjVNlax
 
 > **Os fluxos, as tarefas, imagens e os dados originais não foram alterados.** A fonte visual e funcional continua sendo o [quadro do Miro](https://miro.com/app/board/uXjVNlaxnuE=/).
 
-**Link alternativo enviado pela autora:** [Abrir com código de compartilhamento](https://miro.com/app/board/uXjVNlaxnuE=/?share_link_id=46998654048).
-
-
 
 ## Navegue pelo projeto
 
