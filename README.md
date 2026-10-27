@@ -70,12 +70,6 @@ flowchart LR
 
 **Importante:** essa é uma **visão executiva simplificada**, não uma alteração do fluxograma original. Consulte o [fluxo completo no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581758623044), que contém todos os caminhos, decisões, mensagens e conexões.
 
-### Mapeamento AS IS já publicado
-
-O material original que já estava neste repositório permanece disponível:
-
-![Mapeamento AS IS original](./Mapeamento%20As%20is_detalhe.png)
-
 ## Escopo funcional e oportunidades observadas
 
 - **Discovery:** análise dos canais digitais, possíveis falhas de direcionamento, horários e continuidade do atendimento.
