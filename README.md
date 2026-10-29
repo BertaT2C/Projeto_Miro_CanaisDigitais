@@ -6,18 +6,11 @@ Projeto de estudo e evolução de atendimento digital ligado a **seguros auto**,
 
 O case reúne investigação da jornada existente, desenho de opções de atendimento no WhatsApp da Maxpar, cenários de resposta, regras de negócio, estudo de futuras funcionalidades e provas de conceito (POCs).
 
-> ### 🔎 Acesse o projeto original no Miro
->
+### 🔎 Acesso ao projeto original no Miro
+
 [**Abrir quadro completo e navegável — Discovery, jornadas, MVP, histórias de usuário e POCs**](https://miro.com/app/board/uXjVNlaxnuE=/)
 
-Endereço oficial do quadro identificado no Miro. Explore os fluxos, as conexões, as telas e os conteúdos detalhados no Miro.
-
-A fonte visual oficial é o [quadro no Miro](https://miro.com/app/board/uXjVNlaxnuE=/).
-> **Observação:** esta página é uma organização de case para portfólio.
-
-
-> **Os fluxos, as tarefas, imagens e os dados originais não foram alterados.** A fonte visual e funcional continua sendo o [quadro do Miro](https://miro.com/app/board/uXjVNlaxnuE=/).
-
+Explore as jornadas, as telas, os fluxos e os conteúdos detalhados no [quadro original do Miro](https://miro.com/app/board/uXjVNlaxnuE=/). Este repositório organiza o case para portfólio, **sem afirmar que os fluxos propostos foram implantados em produção**.
 
 ## Navegue pelo projeto
 
@@ -90,7 +83,7 @@ https://youtu.be/u4LxF7WXEUY
 **Quadro completo, com todos os fluxos, telas, prints, canvas e POCs — endereço oficial:**  
 https://miro.com/app/board/uXjVNlaxnuE=/
 
-**Imagem original também mantida no material anterior:**
+**Imagem de apoio ao estudo:**
 
 ![Imagem original do README](https://github.com/BertaT2C/Projeto_Miro_CanaisDigitais/assets/99225701/6f24e789-c788-4b21-8fab-bcef793fd9ea)
 
@@ -100,13 +93,12 @@ https://miro.com/app/board/uXjVNlaxnuE=/
 
 Esse case demonstra como a **análise da operação, o mapeamento visual e a escrita de regras e cenários** ajudam a estruturar decisões de produto e melhorias na experiência de atendimento.
 
-## Arquivos de referência e preservação
+## Documentação complementar
 
 - [Case detalhado Maxpar / Autoglass](./docs/CASE_MAXPAR_AUTOGLASS.md)
 - [Jornada completa extraída do Miro — etapas, conexões e mensagens](./docs/FLUXO_MIRO_JORNADA_COMPLETA.md)
 - [Estudo de backlog completo extraído do Miro — etapas, conexões e mensagens](./docs/FLUXO_MIRO_BACKLOG_COMPLETO.md)
 - [Cenários e regras transcritos do Miro sem mudar seu conteúdo](./docs/CENARIOS_E_REGRAS_ORIGINAIS.md)
 - [README original, preservado integralmente](./DOCUMENTACAO_ORIGINAL.md)
-- [Mapeamento AS IS original](./Mapeamento%20As%20is_detalhe.png)
 
-> **Transparência do portfólio:** não foram inventados indicadores, resultados financeiros, percentuais, datas de implantação ou integrações. **Os dois fluxos textuais foram transcritos com suas conexões para o GitHub**, enquanto o quadro Miro continua sendo a referência visual original para layout, prints, canvas e POCs. Nenhum conteúdo foi editado no Miro.
+> **Escopo:** os fluxos textuais permitem consultar a jornada e o backlog também pelo GitHub; o quadro original no Miro permanece como referência para a navegação visual, telas e POCs. O estudo não apresenta indicadores comprovados de implantação.
