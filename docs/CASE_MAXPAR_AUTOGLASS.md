@@ -1,4 +1,6 @@
-# Case de Análise de Negócios — WhatsApp Maxpar / Autoglass
+# Canais digitais
+
+**Estudo de caso de Product Owner e Análise de Negócios — Maxpar / Autoglass**
 
 **Tema:** transformação de canais digitais e automação parcial da jornada de atendimento relacionada a seguros auto, serviços ao segurado e direcionamento para canais da Autoglass.
 
