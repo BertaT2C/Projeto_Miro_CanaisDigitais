@@ -167,10 +167,6 @@ https://youtu.be/u4LxF7WXEUY
 **Quadro completo, com todos os fluxos, telas, prints, canvas e POCs — endereço oficial:**  
 https://miro.com/app/board/uXjVNlaxnuE=/
 
-**Imagem de apoio ao estudo:**
-
-![Imagem original do README](https://github.com/BertaT2C/Projeto_Miro_CanaisDigitais/assets/99225701/6f24e789-c788-4b21-8fab-bcef793fd9ea)
-
 ## Meu papel e competências demonstradas
 
 **Business Analysis | Discovery | Jornada do Usuário | AS IS / TO BE | Mapeamento de Processos | Requisitos Funcionais | BDD | Critérios de Aceite | Backlog | MVP | Stakeholder Management | Miro | Canais Digitais | Chatbots | WhatsApp**
