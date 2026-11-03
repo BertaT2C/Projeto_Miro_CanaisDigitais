@@ -1,16 +1,100 @@
-# Case de Canais Digitais | WhatsApp Maxpar / Autoglass
+# Canais digitais
 
-**Análise de Negócios · Discovery · Mapeamento de Processos · Jornada do Usuário · MVP · Backlog · BDD**
+**Estudo de caso de Product Owner e Análise de Negócios — do desafio de negócio à prova de conceito (POC)**
 
-Projeto de estudo e evolução de atendimento digital ligado a **seguros auto**, serviços ao segurado/beneficiário e direcionamento ao **e-commerce da Autoglass**, conforme o [quadro original do Miro](https://miro.com/app/board/uXjVNlaxnuE=/).
+**Competências:** Product Discovery · Jornada do Usuário · AS IS / TO BE · Visão de Produto · MVP · Backlog · Histórias de Usuário · BDD · Indicadores · Prototipação · Miro.
 
-O case reúne investigação da jornada existente, desenho de opções de atendimento no WhatsApp da Maxpar, cenários de resposta, regras de negócio, estudo de futuras funcionalidades e provas de conceito (POCs).
+> **Visão do projeto:** estruturar um canal digital para início autônomo de atendimentos de assistência automotiva, com foco em clareza da jornada e menor dependência do Call Center. O repositório apresenta o percurso de análise e a validação visual por POCs; **não afirma implantação em produção ou ganhos operacionais medidos**.
 
-### 🔎 Acesso ao projeto original no Miro
+[**Acessar apresentação visual do case no GitHub Pages**](https://bertat2c.github.io/canais-digitais.html) · [**Explorar o quadro completo no Miro**](https://miro.com/app/board/uXjVNlaxnuE=/) · [**Assistir à POC 01**](https://youtu.be/u4LxF7WXEUY)
 
-[**Abrir quadro completo e navegável — Discovery, jornadas, MVP, histórias de usuário e POCs**](https://miro.com/app/board/uXjVNlaxnuE=/)
+## Do estudo à POC — evolução do projeto
 
-Explore as jornadas, as telas, os fluxos e os conteúdos detalhados no [quadro original do Miro](https://miro.com/app/board/uXjVNlaxnuE=/). Este repositório organiza o case para portfólio, **sem afirmar que os fluxos propostos foram implantados em produção**.
+| Etapa | Pergunta de produto | Artefato do estudo |
+| --- | --- | --- |
+| **1. Desafio e objetivos** | Que problema estamos resolvendo e para quem? | Briefing de Product Owner e definição da oportunidade |
+| **2. Discovery e diagnóstico** | Como o atendimento funciona hoje? | Pesquisa de referências, canais, dores, análise AS IS no Miro |
+| **3. Missão, visão e MVP** | Qual experiência queremos entregar primeiro? | Canvas MVP e definição inicial da solução |
+| **4. Jornada futura e regras** | Como será a navegação e o tratamento das exceções? | TO BE, fluxos e regras de atendimento |
+| **5. Backlog e critérios de aceite** | Como traduzir a experiência em entregas? | Backlog, histórias e 10 cenários BDD documentados |
+| **6. Prova de conceito** | Como demonstrar a jornada antes da implantação? | POC 01 com vídeo e POC 02 com sequência de telas no Miro |
+| **7. Métricas e evolução** | Como validar valor para o negócio? | Indicadores propostos, hipóteses e próximos passos |
+
+### 1. Desafio de negócio
+
+O briefing do desafio de Product Owner apresenta a necessidade de uma ferramenta digital para **abertura autônoma de assistência automotiva**, incluindo **guincho, carro reserva e motorista amigo**, por segurados/beneficiários. Segundo o briefing, a abertura era realizada exclusivamente por chamadas ao **Call Center**, criando uma experiência pouco flexível e uma desvantagem competitiva.
+
+**Objetivo descrito:** oferecer um canal de solicitação que melhore a experiência e a eficiência operacional. Para a apresentação, foram solicitados missão e visão do produto, MVP, backlog, critérios de sucesso, indicadores e, como diferencial, um protótipo básico.
+
+### 2. Discovery e análise do cenário atual
+
+O estudo reuniu informações sobre preferências de canais digitais, experiência de atendimento e jornadas no ambiente de seguros.
+
+| Canal de comunicação | Valor mostrado no gráfico do material |
+| --- | ---: |
+| WhatsApp | **88%** |
+| Redes sociais | **77%** |
+| E-mail | **59%** |
+
+Esses são **valores apresentados no gráfico de referência compartilhado para o case**; o material não informa amostra, período, pesquisa de origem ou eventual sobreposição entre preferências. Portanto, **não são indicadores apurados pela POC nem permitem inferir participação de mercado**.
+
+O material também apresenta referências do **Reclame Aqui** sobre resolução de reclamações e intenção de voltar a fazer negócio, sem base suficiente para atribuir percentuais exatos ou causalidade ao projeto.
+
+**AS IS:** atendimento dependente de chamadas, jornadas distribuídas por WhatsApp, portal e atendimento humano, com necessidade de direcionamento mais claro e tratamento de opções inválidas. [Abrir Discovery no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581172626138).
+
+### 3. Direcionamento de produto — missão, visão e MVP
+
+- **Missão proposta a partir do briefing:** facilitar o início da assistência automotiva por autosserviço, com orientações simples e acesso claro aos serviços disponíveis.
+- **Visão proposta:** permitir que segurados e beneficiários solicitem ou iniciem atendimento por canal digital, com comunicação compreensível, alternativas de suporte e evolução incremental dos serviços.
+- **Resultado esperado no Canvas:** possibilitar que segurados/beneficiários realizem a abertura de atendimento de assistência de maneira autônoma.
+- **Público indicado:** pessoas com seguro automotivo e familiaridade com aplicativos e mensagens.
+- **Jornada preliminar do Canvas:** acesso ao aplicativo/canal → entrada na base de clientes → identificação da seguradora → consulta aos dados da seguradora.
+- **Escopo inicialmente explorado:** canal automatizado para consultar opções de assistência e orientar o atendimento. O estudo no Miro aprofunda menus, transbordo humano e direcionamentos.
+
+**Premissas do Canvas:** há referência a **3 semanas**, equipe de **desenvolvedor/Product Owner** e plataforma **Zenvia (R$ 700,00)**. São informações de planejamento exibidas no artefato, **não investimento realizado, custo total comprovado ou compromisso de prazo**.
+
+[Consultar Canvas MVP original no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581793445322).
+
+### 4. Modelagem da jornada e da solução proposta
+
+O trabalho passou pela análise de atendimento de segurados, beneficiários e não segurados. O **TO BE** incluiu saudação, escolhas de menu, mensagens de orientação, encaminhamento para portal/e-commerce, opção de atendente humano e regras para respostas inválidas.
+
+A evolução explorada no backlog contempla **Assistência Dia e Noite**, **Seguradoras**, **Oficina** e **voltar ao menu**. Não significa que todas essas opções foram desenvolvidas ou implantadas.
+
+- [Jornada documentada — 43 etapas e 36 ligações](./docs/FLUXO_MIRO_JORNADA_COMPLETA.md)
+- [Estudo de backlog — 34 etapas e 24 ligações](./docs/FLUXO_MIRO_BACKLOG_COMPLETO.md)
+- [Quadro original com fluxos e telas](https://miro.com/app/board/uXjVNlaxnuE=/)
+
+### 5. Backlog, histórias de usuário e aceitação
+
+Os artefatos registram cenários em formato **Dado / Quando / Então** para saudação, seleção de perfil, tratamento de respostas incorretas e direcionamento ao atendimento humano.
+
+**Exemplo sintético, baseado nas regras documentadas:**
+
+> **Dado** que o usuário tenha recebido o menu inicial, **quando** selecionar uma opção não reconhecida pela primeira vez, **então** o canal deve orientá-lo a informar uma opção válida. Em uma segunda entrada inválida, a jornada documentada prevê mensagem de orientação e encerramento.
+
+Este exemplo resume o comportamento original; não substitui os **10 cenários completos**: [consultar requisitos e BDD](./docs/CENARIOS_E_REGRAS_ORIGINAIS.md).
+
+### 6. POCs — demonstração da experiência
+
+- **POC 01:** demonstração de jornada digital, com [vídeo](https://youtu.be/u4LxF7WXEUY) e [frame no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764582022045353).
+- **POC 02:** sequência de telas e interações proposta para o MVP, preservada no [quadro do Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764582024733080).
+
+**Entrega demonstrável:** análise, definição da jornada, documentação de requisitos e protótipos de validação visual. A POC **não equivale a implantação real nem comprova redução de chamadas ao Call Center**.
+
+### 7. Indicadores de sucesso propostos
+
+| Indicador | O que acompanharia | Situação |
+| --- | --- | --- |
+| Cliques/acionamentos da automação | Interesse e utilização da jornada | Proposto no Canvas |
+| Quantidade de depoimentos coletados | Feedback qualitativo dos usuários | Proposto no Canvas |
+| Pesquisa NPS | Percepção de satisfação com a experiência | Proposto no Canvas |
+| Taxa de início e conclusão de solicitações | Capacidade de concluir a jornada sem abandono | Sugestão de evolução analítica |
+| Transferência para atendimento humano | Dependência operacional do Call Center | Sugestão de evolução analítica |
+
+**Não há valores de resultados efetivos pós-implantação neste case.** As fontes representam material de desafio, desenho de solução e POCs; os indicadores acima são instrumentos para uma validação futura.
+
+---
 
 ## Navegue pelo projeto
 
