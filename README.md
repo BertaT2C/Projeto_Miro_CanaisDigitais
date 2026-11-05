@@ -42,6 +42,17 @@ O material também apresenta referências do **Reclame Aqui** sobre resolução 
 
 **AS IS:** atendimento dependente de chamadas, jornadas distribuídas por WhatsApp, portal e atendimento humano, com necessidade de direcionamento mais claro e tratamento de opções inválidas. [Abrir Discovery no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581172626138).
 
+
+#### Visão simplificada do AS IS
+
+```mermaid
+flowchart TD
+    A["Necessidade de assistência automotiva"] --> B["Contato com o Call Center"]
+    B --> C["Abertura da solicitação por telefone"]
+```
+
+O briefing descreve a abertura de assistência (guincho, carro reserva e motorista amigo) por telefone. No Discovery, WhatsApp e portal também aparecem como pontos de contato da jornada mais ampla, com registros de interações sem resposta ou sem direcionamento e necessidade de informar o horário de atendimento. [Consultar o Discovery no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581172626138).
+
 ### 3. Direcionamento de produto — missão, visão e MVP
 
 - **Missão proposta a partir do briefing:** facilitar o início da assistência automotiva por autosserviço, com orientações simples e acesso claro aos serviços disponíveis.
@@ -131,7 +142,7 @@ No quadro, o **WhatsApp da Maxpar Serviços** conduz o contato inicial e apresen
 
 **POCs:** o quadro inclui protótipos e demonstração do fluxo. A existência de um MVP ou POC **não significa, por si só, implantação em produção**.
 
-## Jornada documentada no Miro
+## Jornada proposta (TO BE) documentada no Miro
 
 ```mermaid
 flowchart LR
