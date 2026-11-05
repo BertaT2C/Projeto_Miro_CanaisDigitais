@@ -32,9 +32,9 @@ O Discovery usou pesquisa desk para contextualizar o atendimento digital em segu
 
 | Evidência | Recorte e fonte |
 | --- | --- |
-| **37% usariam o site da seguradora e 34% usariam o app** | Intenção declarada por titulares de apólices de diferentes ramos. [Capco, Brasil, 2023, 1.000 entrevistados](https://www.capco.com/about-us-old/newsroom-and-media-old/personalizacao-confianca-e-custo-beneficio-sao-as-chaves). |
+| **WhatsApp (30%), telefone (30%), chat no site (20%) e app da empresa (12%)** | Primeiro canal escolhido para resolver um problema com uma empresa. Pesquisa de atendimento geral com 1.176 brasileiros de 16 anos ou mais que tinham smartphone. [Mobile Time e Opinion Box, março de 2024](https://www.mobiletime.com.br/noticias/20/05/2024/whatsapp-e-telefone-sao-os-canais-de-atendimento-preferidos-do-brasileiro/). |
 | **36% dos clientes de seguro auto receberam atualizações de sinistro pelo app** | Uso observado na jornada de sinistro. [JD Power, EUA, 2025](https://www.jdpower.com/business/press-releases/2025-us-claims-digital-experience-study). |
-| **Solicitação digital de assistência** | A Porto oferece app, SOS Porto Seguro Auto e telefone para solicitar guincho. A Allianz oferece solicitação online, chat e telefone para assistência 24h. [Porto](https://www.portoseguro.com.br/faqs/como-solicitar-um-guincho) · [Allianz](https://www.allianz.com.br/contato.html). |
+| **Assistência 24h foi o serviço mais acionado no WhatsApp da Allianz (35%)** | Dado da seguradora. O WhatsApp também direcionava para chat ou telefone. [Sindseg, Brasil, julho de 2025](https://www.sindicatoseguradoras.com.br/2025/07/01/uso-dos-canais-digitais-cresce-mais-de-20-na-allianz-seguros/). |
 
 **Hipótese para o MVP:** testar a abertura de assistência pelo WhatsApp, a confirmação do protocolo e o acompanhamento do pedido, com opção de atendimento humano. Medir conclusão, recontatos e transferências para validar a hipótese. As pesquisas representam referências externas ao case.
 
