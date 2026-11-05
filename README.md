@@ -33,7 +33,7 @@ O Discovery usou pesquisa desk para contextualizar o atendimento digital em segu
 | Evidência | Recorte e fonte |
 | --- | --- |
 | **WhatsApp (30%), telefone (30%), chat no site (20%) e app da empresa (12%)** | Primeiro canal escolhido para resolver um problema com uma empresa. Pesquisa de atendimento geral com 1.176 brasileiros de 16 anos ou mais que tinham smartphone. [Mobile Time e Opinion Box, março de 2024](https://www.mobiletime.com.br/noticias/20/05/2024/whatsapp-e-telefone-sao-os-canais-de-atendimento-preferidos-do-brasileiro/). |
-| **36% dos clientes de seguro auto receberam atualizações de sinistro pelo app** | Uso observado na jornada de sinistro. [JD Power, EUA, 2025](https://www.jdpower.com/business/press-releases/2025-us-claims-digital-experience-study). |
+| **Porto Seguro Auto oferece WhatsApp, app e telefone** | Canais 24h listados para solicitar serviços e abrir sinistro. [Manual do Segurado, Brasil, outubro de 2025](https://www.portoseguro.com.br/content/dam/documentos/condicoes_gerais/seguro_auto/2025/CG138-3402-Porto%20Seguro.pdf). |
 | **Assistência 24h foi o serviço mais acionado no WhatsApp da Allianz (35%)** | Dado da seguradora. O WhatsApp também direcionava para chat ou telefone. [Sindseg, Brasil, julho de 2025](https://www.sindicatoseguradoras.com.br/2025/07/01/uso-dos-canais-digitais-cresce-mais-de-20-na-allianz-seguros/). |
 
 #### Síntese do Discovery · 2024–2025
@@ -42,7 +42,7 @@ O Discovery usou pesquisa desk para contextualizar o atendimento digital em segu
 | --- | --- | --- |
 | Brasil · atendimento ao consumidor · 2024 | WhatsApp e telefone foram a primeira escolha de 30% dos entrevistados cada. Chat no site teve 20% e app, 12%. | Testar WhatsApp como entrada e manter o telefone acessível para quem preferir atendimento por voz. |
 | Brasil · Allianz Seguros · 2025 | Assistência 24h foi o serviço mais acionado no WhatsApp da seguradora (35%). O canal também direcionava para chat ou telefone. | Priorizar a solicitação de assistência e oferecer encaminhamento ao atendimento humano. |
-| EUA · seguro auto · 2025 | No estudo da JD Power, 36% dos clientes de seguro auto receberam atualizações de sinistro pelo app. | Testar confirmação por protocolo e acompanhamento do pedido como hipótese para a jornada de assistência. |
+| Brasil · Porto Seguro Auto · 2025 | O manual do Seguro Auto lista WhatsApp, app e telefone entre os canais 24h para solicitar serviços e abrir sinistro. | Testar o início pelo WhatsApp, com acesso claro ao telefone. Validar protocolo e acompanhamento no piloto. |
 
 Os percentuais têm bases e objetivos diferentes. Cada dado orienta uma hipótese de produto.
 
