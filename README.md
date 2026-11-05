@@ -28,17 +28,15 @@ O briefing do desafio de Product Owner apresenta a necessidade de uma ferramenta
 
 ### 2. Discovery e análise do cenário atual
 
-O estudo reuniu informações sobre preferências de canais digitais, experiência de atendimento e jornadas no ambiente de seguros.
+O Discovery usou pesquisa desk para contextualizar o atendimento digital em seguros e formular hipóteses para o MVP de assistência automotiva.
 
-| Canal de comunicação | Valor mostrado no gráfico do material |
-| --- | ---: |
-| WhatsApp | **88%** |
-| Redes sociais | **77%** |
-| E-mail | **59%** |
+| Evidência | Recorte e fonte |
+| --- | --- |
+| **37% usariam o site da seguradora e 34% usariam o app** | Intenção declarada por titulares de apólices de diferentes ramos. [Capco, Brasil, 2023, 1.000 entrevistados](https://www.capco.com/about-us-old/newsroom-and-media-old/personalizacao-confianca-e-custo-beneficio-sao-as-chaves). |
+| **36% dos clientes de seguro auto receberam atualizações de sinistro pelo app** | Uso observado na jornada de sinistro. [JD Power, EUA, 2025](https://www.jdpower.com/business/press-releases/2025-us-claims-digital-experience-study). |
+| **Solicitação digital de assistência** | A Porto oferece app, SOS Porto Seguro Auto e telefone para solicitar guincho. A Allianz oferece solicitação online, chat e telefone para assistência 24h. [Porto](https://www.portoseguro.com.br/faqs/como-solicitar-um-guincho) · [Allianz](https://www.allianz.com.br/contato.html). |
 
-Esses são **valores apresentados no gráfico de referência compartilhado para o case**; o material não informa amostra, período, pesquisa de origem ou eventual sobreposição entre preferências. Portanto, **não são indicadores apurados pela POC nem permitem inferir participação de mercado**.
-
-O material também apresenta referências do **Reclame Aqui** sobre resolução de reclamações e intenção de voltar a fazer negócio, sem base suficiente para atribuir percentuais exatos ou causalidade ao projeto.
+**Hipótese para o MVP:** testar a abertura de assistência pelo WhatsApp, a confirmação do protocolo e o acompanhamento do pedido, com opção de atendimento humano. Medir conclusão, recontatos e transferências para validar a hipótese. As pesquisas representam referências externas ao case.
 
 **AS IS:** atendimento dependente de chamadas, jornadas distribuídas por WhatsApp, portal e atendimento humano, com necessidade de direcionamento mais claro e tratamento de opções inválidas. [Abrir Discovery no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581172626138).
 
