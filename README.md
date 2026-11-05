@@ -36,7 +36,17 @@ O Discovery usou pesquisa desk para contextualizar o atendimento digital em segu
 | **36% dos clientes de seguro auto receberam atualizações de sinistro pelo app** | Uso observado na jornada de sinistro. [JD Power, EUA, 2025](https://www.jdpower.com/business/press-releases/2025-us-claims-digital-experience-study). |
 | **Assistência 24h foi o serviço mais acionado no WhatsApp da Allianz (35%)** | Dado da seguradora. O WhatsApp também direcionava para chat ou telefone. [Sindseg, Brasil, julho de 2025](https://www.sindicatoseguradoras.com.br/2025/07/01/uso-dos-canais-digitais-cresce-mais-de-20-na-allianz-seguros/). |
 
-**Hipótese para o MVP:** testar a abertura de assistência pelo WhatsApp, a confirmação do protocolo e o acompanhamento do pedido, com opção de atendimento humano. Medir conclusão, recontatos e transferências para validar a hipótese. As pesquisas representam referências externas ao case.
+#### Síntese do Discovery · 2024–2025
+
+| Recorte | Evidência | Decisão para o MVP |
+| --- | --- | --- |
+| Brasil · atendimento ao consumidor · 2024 | WhatsApp e telefone foram a primeira escolha de 30% dos entrevistados cada. Chat no site teve 20% e app, 12%. | Testar WhatsApp como entrada e manter o telefone acessível para quem preferir atendimento por voz. |
+| Brasil · Allianz Seguros · 2025 | Assistência 24h foi o serviço mais acionado no WhatsApp da seguradora (35%). O canal também direcionava para chat ou telefone. | Priorizar a solicitação de assistência e oferecer encaminhamento ao atendimento humano. |
+| EUA · seguro auto · 2025 | No estudo da JD Power, 36% dos clientes de seguro auto receberam atualizações de sinistro pelo app. | Testar confirmação por protocolo e acompanhamento do pedido como hipótese para a jornada de assistência. |
+
+Os percentuais têm bases e objetivos diferentes. Cada dado orienta uma hipótese de produto.
+
+**Validação:** Medir a taxa de conclusão da abertura digital, os recontatos pelo mesmo pedido e as transferências para atendimento humano. Comparar os indicadores por canal no piloto.
 
 **AS IS:** atendimento dependente de chamadas, jornadas distribuídas por WhatsApp, portal e atendimento humano, com necessidade de direcionamento mais claro e tratamento de opções inválidas. [Abrir Discovery no Miro](https://miro.com/app/board/uXjVNlaxnuE=/?moveToWidget=3458764581172626138).
 
