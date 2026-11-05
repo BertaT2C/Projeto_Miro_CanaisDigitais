@@ -34,6 +34,8 @@ O Discovery usou pesquisa desk para contextualizar o atendimento digital em segu
 | --- | --- |
 | **WhatsApp (30%), telefone (30%), chat no site (20%) e app da empresa (12%)** | Primeiro canal escolhido para resolver um problema com uma empresa. Pesquisa de atendimento geral com 1.176 brasileiros de 16 anos ou mais que tinham smartphone. [Mobile Time e Opinion Box, março de 2024](https://www.mobiletime.com.br/noticias/20/05/2024/whatsapp-e-telefone-sao-os-canais-de-atendimento-preferidos-do-brasileiro/). |
 | **Porto Seguro Auto oferece WhatsApp, app e telefone** | Canais 24h listados para solicitar serviços e abrir sinistro. [Manual do Segurado, Brasil, outubro de 2025](https://www.portoseguro.com.br/content/dam/documentos/condicoes_gerais/seguro_auto/2025/CG138-3402-Porto%20Seguro.pdf). |
+| **HDI Seguros (2025)** | O manual Auto lista portal e app para consultar a carteirinha e acompanhar pagamentos, além da central telefônica para solicitar serviços e avisar sinistros. [Condições contratuais de Automóvel](https://www.bv.com.br/documents/d/portal/cg-hdi-1). |
+| **Tokio Marine Brasil (2025)** | O guia Auto indica WhatsApp e telefone para carro reserva e canais digitais para serviços de vidros, conforme a apólice. [Guia de Serviços e Benefícios Automóvel](https://portal.tokiomarine.com.br/docstore-services/rest/download/0807149a-2640-4fc6-b0be-97d47e890179). |
 | **Assistência 24h foi o serviço mais acionado no WhatsApp da Allianz (35%)** | Dado da seguradora. O WhatsApp também direcionava para chat ou telefone. [Sindseg, Brasil, julho de 2025](https://www.sindicatoseguradoras.com.br/2025/07/01/uso-dos-canais-digitais-cresce-mais-de-20-na-allianz-seguros/). |
 
 #### Síntese do Discovery · 2024–2025
@@ -43,6 +45,12 @@ O Discovery usou pesquisa desk para contextualizar o atendimento digital em segu
 | Brasil · atendimento ao consumidor · 2024 | WhatsApp e telefone foram a primeira escolha de 30% dos entrevistados cada. Chat no site teve 20% e app, 12%. | Testar WhatsApp como entrada e manter o telefone acessível para quem preferir atendimento por voz. |
 | Brasil · Allianz Seguros · 2025 | Assistência 24h foi o serviço mais acionado no WhatsApp da seguradora (35%). O canal também direcionava para chat ou telefone. | Priorizar a solicitação de assistência e oferecer encaminhamento ao atendimento humano. |
 | Brasil · Porto Seguro Auto · 2025 | O manual do Seguro Auto lista WhatsApp, app e telefone entre os canais 24h para solicitar serviços e abrir sinistro. | Testar o início pelo WhatsApp, com acesso claro ao telefone. Validar protocolo e acompanhamento no piloto. |
+| Brasil · HDI Seguros · 2025 | O manual Auto lista portal e app para consultar a carteirinha e acompanhar pagamentos, além da central telefônica para solicitar serviços e avisar sinistros. | Oferecer consulta digital de informações básicas e deixar a central visível. |
+| Brasil · Tokio Marine Brasil · 2025 | O guia Auto indica WhatsApp e telefone para carro reserva e canais digitais para serviços de vidros, conforme a apólice. | Mostrar os canais disponíveis por serviço e orientar sobre a cobertura contratada. |
+
+**Qual canal os clientes preferem para consultar o seguro?** Em 2025, a Allianz informou que quase 40% dos seus clientes de seguro auto usavam o aplicativo Allianz Cliente. Em março de 2025, o acesso à apólice representou 19% no levantamento dos serviços mais usados no app. [Dados da Allianz divulgados pelo Sindseg](https://www.sindicatoseguradoras.com.br/2025/07/01/uso-dos-canais-digitais-cresce-mais-de-20-na-allianz-seguros/).
+
+Esses números mostram uso do app na Allianz. A pesquisa brasileira de 2024 mede preferência no atendimento em geral. A preferência entre WhatsApp, telefone, app e portal para consultar o próprio seguro segue como hipótese a validar com segurados. No piloto, perguntar qual canal o segurado escolheria para consultar apólice, cobertura ou carteirinha e comparar a resposta com o canal efetivamente usado.
 
 Os percentuais têm bases e objetivos diferentes. Cada dado orienta uma hipótese de produto.
 
